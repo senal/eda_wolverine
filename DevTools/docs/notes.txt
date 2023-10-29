@@ -1,0 +1,8 @@
+Configuration
+Wolverine requires usesage of the Lamar IoC container
+`UseWolverine()` quietlly replaces the built in .NET container with Lamar
+
+installation
+
+integrate with ASP.net core
+    add package WolverineFx.HTTP
